@@ -81,6 +81,16 @@ main {
 }
 
 
+#rating li:hover {
+    background-color: hsl(25, 97%, 53%);
+    color: aliceblue;
+}
+
+#SubmitBtn:hover {
+    color: hsl(25, 97%, 53%);
+    background-color: aliceblue;
+}
+
 .hidden {
     display: none;
 }

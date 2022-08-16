@@ -10,5 +10,5 @@ rateBtn.addEventListener('click', (e) => {
 rating.addEventListener("click", (e) => {
     rated.innerText = e.target.innerText;
     e.target.style.backgroundColor = 'gray';
-    e.target.style.color = 'white';
+    e.target.style.color = 'aliceblue';
 });
