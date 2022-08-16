@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@sphamandla-s](https://www.frontendmentor.io/profile/@sphamandla-s)
+- Frontend Mentor - [@sphamandla-s](https://www.frontendmentor.io/profile/sphamandla-s)
 - Twitter - [@Spha_Mdletsh](https://www.twitter.com/Spha_Mdletsh)
 
